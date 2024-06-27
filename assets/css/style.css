@@ -1,0 +1,13 @@
+body{
+        background: linear-gradient(180deg, #340707, #110F6F); /* Você pode ajustar as cores ou ângulo se necessário */
+        min-height: 100vh;
+
+    }
+
+
+.descricao-box {
+    border-radius: 10px;
+    padding: 15px;
+    margin-top: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
